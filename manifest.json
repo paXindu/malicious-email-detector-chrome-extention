@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "My Chrome Extension",
+  "name": "eDIVE",
   "version": "1.0",
   "permissions": [
     "activeTab",
